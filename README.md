@@ -3,7 +3,7 @@
 Um formulário simples criado usando o Flutter.
 
 <p align="center">
-  <img src = "" height="700">
+  <img src = "https://github.com/lucasdevitto/formulario/blob/main/pictures/formulario.gif" height="700">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
